@@ -5,16 +5,16 @@ A mini e-commerce application built with Rails 4.2 for purposes of teaching Rail
 ## Final Product
 
 #### Landing Page
-!["Landing Page"]()
+!["Landing Page"](https://github.com/remy29/jungle/blob/master/public/screenshots/landing_page.png?raw=true)
 
 #### Cart View
-!["Cart View"]()
-
-#### Admin Product View
-!["Admin Product View"]()
+!["Cart View"](https://github.com/remy29/jungle/blob/master/public/screenshots/cart_view.png?raw=true)
 
 #### Product Description View
-![Product Description View]()
+![Product Description View](https://github.com/remy29/jungle/blob/master/public/screenshots/product_description_view.png?raw=true)
+
+#### Admin Product View
+!["Admin Product View"](https://github.com/remy29/jungle/blob/master/public/screenshots/admin_product_view.png?raw=true)
 
 ## Setup
 
