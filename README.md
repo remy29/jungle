@@ -2,6 +2,19 @@
 
 A mini e-commerce application built with Rails 4.2 for purposes of teaching Rails by example.
 
+## Final Product
+
+#### Landing Page
+!["Landing Page"]()
+
+#### Cart View
+!["Cart View"]()
+
+#### Admin Product View
+!["Admin Product View"]()
+
+#### Product Description View
+![Product Description View]()
 
 ## Setup
 
@@ -25,3 +38,11 @@ More information in their docs: <https://stripe.com/docs/testing#cards>
 * Rails 4.2 [Rails Guide](http://guides.rubyonrails.org/v4.2/)
 * PostgreSQL 9.x
 * Stripe
+
+## Note
+
+* Testing implemented with RSpec and Capybara
+
+
+###### Version 1.0.0
+
