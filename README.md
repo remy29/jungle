@@ -1,6 +1,8 @@
 # Jungle
 
-A mini e-commerce application built with Rails 4.2.
+Jungle is an e-commerce platform built with Ruby on Rails server-side web app framework. Unit testing 
+is handled using Rspec. Integration / End-to-end tests are automated using Capybara combined with a headless Poletgeist 
+browser.
 
 ## Final Product
 
